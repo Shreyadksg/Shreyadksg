@@ -14,5 +14,5 @@
   👩🏻‍💻 About Me :
   CSE 2025 ,Motilal Nehru National Institute of Technology,Allahabad 🌼🌼🌼
   
- 🌱 I’m currently learning coding and development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ 🌱 Passionate about app development and competitive coding and data structures . <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
